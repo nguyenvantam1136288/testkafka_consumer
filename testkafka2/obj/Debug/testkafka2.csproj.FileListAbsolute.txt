@@ -1,0 +1,143 @@
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x86\libcrypto-1_1.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x86\librdkafka.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x86\libssl-1_1.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x86\msvcp140.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x86\vcruntime140.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x86\zlib1.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x86\zstd.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x64\libcrypto-1_1-x64.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x64\librdkafka.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x64\libssl-1_1-x64.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x64\msvcp140.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x64\vcruntime140.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x64\zlib1.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\librdkafka\x64\zstd.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\testkafka2.exe.config
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\testkafka2.exe
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\testkafka2.pdb
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\Confluent.Kafka.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\System.Buffers.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\System.Memory.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\Confluent.Kafka.xml
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\System.Buffers.xml
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\System.Memory.xml
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\obj\Debug\testkafka2.csproj.AssemblyReference.cache
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\obj\Debug\testkafka2.csproj.CoreCompileInputs.cache
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\obj\Debug\testkafka2.exe
+C:\Users\adminxpe\source\repos\testkafka2\testkafka2\obj\Debug\testkafka2.pdb
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\libcrypto-1_1.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\librdkafka.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\libssl-1_1.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\msvcp140.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\vcruntime140.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\zlib1.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\zstd.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\libcrypto-1_1-x64.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\librdkafka.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\libssl-1_1-x64.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\msvcp140.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\vcruntime140.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\zlib1.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\zstd.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\testkafka2.exe.config
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\testkafka2.exe
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\testkafka2.pdb
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\Confluent.Kafka.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\System.Buffers.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\System.Memory.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\System.Numerics.Vectors.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\Confluent.Kafka.xml
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\System.Buffers.xml
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\System.Memory.xml
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\System.Numerics.Vectors.xml
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dieo\example\testkafka consumer\testkafka2\obj\Debug\testkafka2.csproj.CoreCompileInputs.cache
+D:\Dieo\example\testkafka consumer\testkafka2\obj\Debug\testkafka2.csproj.CopyComplete
+D:\Dieo\example\testkafka consumer\testkafka2\obj\Debug\testkafka2.exe
+D:\Dieo\example\testkafka consumer\testkafka2\obj\Debug\testkafka2.pdb
+D:\Dieo\example\testkafka consumer\testkafka2\obj\Debug\testkafka2.csprojAssemblyReference.cache
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\Newtonsoft.Json.dll
+D:\Dieo\example\testkafka consumer\testkafka2\bin\Debug\Newtonsoft.Json.xml
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\libcrypto-1_1.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\librdkafka.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\libssl-1_1.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\msvcp140.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\vcruntime140.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\zlib1.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x86\zstd.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\libcrypto-1_1-x64.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\librdkafka.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\libssl-1_1-x64.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\msvcp140.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\vcruntime140.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\zlib1.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\librdkafka\x64\zstd.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\testkafka2.exe.config
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\testkafka2.exe
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\testkafka2.pdb
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\Confluent.Kafka.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\Newtonsoft.Json.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\System.Buffers.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\System.Memory.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\System.Numerics.Vectors.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\Confluent.Kafka.xml
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\Newtonsoft.Json.xml
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\System.Buffers.xml
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\System.Memory.xml
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\System.Numerics.Vectors.xml
+D:\A.Diep\example\testkafka consumer\testkafka2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\A.Diep\example\testkafka consumer\testkafka2\obj\Debug\testkafka2.csprojAssemblyReference.cache
+D:\A.Diep\example\testkafka consumer\testkafka2\obj\Debug\testkafka2.csproj.CoreCompileInputs.cache
+D:\A.Diep\example\testkafka consumer\testkafka2\obj\Debug\testkafka2.csproj.CopyComplete
+D:\A.Diep\example\testkafka consumer\testkafka2\obj\Debug\testkafka2.exe
+D:\A.Diep\example\testkafka consumer\testkafka2\obj\Debug\testkafka2.pdb
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x86\libcrypto-1_1.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x86\librdkafka.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x86\libssl-1_1.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x86\msvcp140.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x86\vcruntime140.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x86\zlib1.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x86\zstd.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x64\libcrypto-1_1-x64.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x64\librdkafka.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x64\libssl-1_1-x64.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x64\msvcp140.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x64\vcruntime140.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x64\zlib1.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\librdkafka\x64\zstd.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\testkafka2.exe.config
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\testkafka2.exe
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\testkafka2.pdb
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\Confluent.Kafka.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\Newtonsoft.Json.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\System.Buffers.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\System.Memory.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\System.Numerics.Vectors.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\Confluent.Kafka.xml
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\Newtonsoft.Json.xml
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\System.Buffers.xml
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\System.Memory.xml
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\System.Numerics.Vectors.xml
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\A.Diep\example\testkafka_consumer\testkafka2\obj\Debug\testkafka2.csprojAssemblyReference.cache
+D:\A.Diep\example\testkafka_consumer\testkafka2\obj\Debug\testkafka2.csproj.CoreCompileInputs.cache
+D:\A.Diep\example\testkafka_consumer\testkafka2\obj\Debug\testkafka2.csproj.CopyComplete
+D:\A.Diep\example\testkafka_consumer\testkafka2\obj\Debug\testkafka2.exe
+D:\A.Diep\example\testkafka_consumer\testkafka2\obj\Debug\testkafka2.pdb
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\System.IO.Packaging.dll
+D:\A.Diep\example\testkafka_consumer\testkafka2\bin\Debug\System.IO.Packaging.xml
